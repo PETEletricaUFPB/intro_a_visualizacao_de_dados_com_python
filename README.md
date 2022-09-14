@@ -31,7 +31,7 @@ ___
 
 
 <p align="center">
-  <img src="![tema_google](https://user-images.githubusercontent.com/77749126/142334440-4dd819e8-b920-4439-8865-9f303f1d333b.PNG)" />
+  <img src="https://user-images.githubusercontent.com/77749126/142334440-4dd819e8-b920-4439-8865-9f303f1d333b.PNG" />
 </p>
 
 
